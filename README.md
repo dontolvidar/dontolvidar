@@ -30,7 +30,7 @@ Software developer looking to implement new technologies and good practices to c
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dontolvidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/jorge-díaz-web1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AndreaVivi12"> 
+<p align="left"> <a href="https://www.github.com/dontolvidar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/jorge-díaz-web1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AndreaVivi12"> 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 <b>My GitHub Stats</b>
 
