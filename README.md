@@ -36,4 +36,4 @@ Software developer looking to implement new technologies and good practices to c
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Pandrea-hub"><img src="https://github-readme-stats.vercel.app/api?username=Pandrea-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pandrea-hub's GitHub stats" /></a>
+<a href="http://www.github.com/dontolvidar"><img src="https://github-readme-stats.vercel.app/api?username=Jorge&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pandrea-hub's GitHub stats" /></a>
